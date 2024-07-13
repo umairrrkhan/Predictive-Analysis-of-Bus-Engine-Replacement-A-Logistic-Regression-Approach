@@ -61,7 +61,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 Download the dataset bus1234.csv and place it in the project directory.
 Execute the Python code provided in the project's code file.
 
-##Conclusion
+## Conclusion
 
 This project demonstrates the application of logistic regression for predictive analysis of bus engine replacement. By following the steps outlined in this README, you can replicate the analysis, understand the model's performance, and make informed decisions regarding engine replacement based on the provided dataset. The insights gained from this project may have real-world implications for optimizing maintenance schedules and minimizing downtime.
 
